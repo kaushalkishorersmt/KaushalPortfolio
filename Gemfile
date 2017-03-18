@@ -57,6 +57,9 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'friendly_id', '~> 5.1.0'
 # For user authentication
 gem 'devise', '~> 4.2', '>= 4.2.1'
+# For UI purpose
 gem 'bootstrap', '~> 4.0.0.alpha6'
-
+# My own copyright gem
 gem 'kaushal_view_tool', '~> 0.1.0'
+# For Authorization purpose
+gem 'petergate', '~> 1.6', '>= 1.6.3'
