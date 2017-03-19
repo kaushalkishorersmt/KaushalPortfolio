@@ -67,3 +67,5 @@ gem 'petergate', '~> 1.6', '>= 1.6.3'
 gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.1'
 # Implementing kaminari for Pagination
 gem 'kaminari', '~> 0.17.0'
+# jQuery ui rails for drag and drop functioanality
+gem 'jquery-ui-rails', '~> 6.0', '>= 6.0.1'
