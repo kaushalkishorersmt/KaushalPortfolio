@@ -63,3 +63,7 @@ gem 'bootstrap', '~> 4.0.0.alpha6'
 gem 'kaushal_view_tool', '~> 0.1.0'
 # For Authorization purpose
 gem 'petergate', '~> 1.6', '>= 1.6.3'
+# For social media link icon
+gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.1'
+# Implementing kaminari for Pagination
+gem 'kaminari', '~> 0.17.0'
