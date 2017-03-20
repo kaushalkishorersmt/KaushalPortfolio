@@ -69,3 +69,11 @@ gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.1'
 gem 'kaminari', '~> 0.17.0'
 # jQuery ui rails for drag and drop functioanality
 gem 'jquery-ui-rails', '~> 6.0', '>= 6.0.1'
+#To upload files in ruby app, map them to a range of ORMs, Store them on different backends
+gem 'carrierwave', '~> 1.0'
+#Manipulate images with minimul use of memory via ImageMagick
+gem 'mini_magick', '~> 4.6', '>= 4.6.1'
+#Use aws-sdk for S3 support in CarrierWave
+gem 'carrierwave-aws', '~> 1.1'
+#Autoload dotenv in Rails
+gem 'dotenv-rails', '~> 2.2'
