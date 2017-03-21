@@ -77,3 +77,5 @@ gem 'mini_magick', '~> 4.6', '>= 4.6.1'
 gem 'carrierwave-aws', '~> 1.1'
 #Autoload dotenv in Rails
 gem 'dotenv-rails', '~> 2.2'
+#Adding javascript for front-end functionality using cocoon gem
+gem 'cocoon', '~> 1.2', '>= 1.2.9'
