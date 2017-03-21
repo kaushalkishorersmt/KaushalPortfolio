@@ -19,10 +19,6 @@ Bundler.require(*Rails.groups)
 
 module KaushalPortfolio
   class Application < Rails::Application
-    # Settings in config/environments/* take precedence over those specified here.
-    # Application configuration should go into files in config/initializers
-    # -- all .rb files in that directory are automatically loaded.
-  #  config.action_controller.permit_all_parameters = true
-
+    config.eager_load_paths << "#{Rails.root}/lib"
   end
 end

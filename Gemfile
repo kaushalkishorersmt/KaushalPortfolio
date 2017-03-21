@@ -81,3 +81,5 @@ gem 'dotenv-rails', '~> 2.2'
 gem 'cocoon', '~> 1.2', '>= 1.2.9'
 #To show the notification
 gem 'gritter', '~> 1.2'
+# Ruby interface to the Twitter API
+gem 'twitter', '~> 6.1'
