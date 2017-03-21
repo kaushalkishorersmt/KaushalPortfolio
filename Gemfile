@@ -79,3 +79,5 @@ gem 'carrierwave-aws', '~> 1.1'
 gem 'dotenv-rails', '~> 2.2'
 #Adding javascript for front-end functionality using cocoon gem
 gem 'cocoon', '~> 1.2', '>= 1.2.9'
+#To show the notification
+gem 'gritter', '~> 1.2'
