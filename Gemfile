@@ -88,3 +88,5 @@ gem 'redis', '~> 3.3', '>= 3.3.3'
 # Implementing Markdown and code syntax high-lighter
 gem 'redcarpet', '~> 3.4'
 gem 'coderay', '~> 1.1', '>= 1.1.1'
+
+ruby "2.3.0"
